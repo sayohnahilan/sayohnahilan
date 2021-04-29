@@ -2,7 +2,7 @@
 
 My name is Sayohn Ahilan.  
 Software Engineering Intern @<img src="https://user-images.githubusercontent.com/55256294/116605281-3851a880-a8fd-11eb-8fa7-6893fa696af2.png" alt="drawing" width="45"/>  
-Student @University of Waterloo  
+Systems Design Engineering Student [@uWaterloo](https://github.com/uwaterloo)  
 Carnatic Violinist 🎻 [![](https://img.shields.io/badge/-sayohn-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgdRY4w_nDtM6Nqi6-H13BA)](https://www.youtube.com/channel/UCgdRY4w_nDtM6Nqi6-H13BA) 
 
 📫  How to reach me?  
