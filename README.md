@@ -3,10 +3,10 @@
 My name is Sayohn Ahilan.  
 Software Engineering Intern @<img src="https://user-images.githubusercontent.com/55256294/116605281-3851a880-a8fd-11eb-8fa7-6893fa696af2.png" alt="drawing" width="45"/>  
 Student @University of Waterloo  
-Carnatic Violinist 🎻 [![](https://img.shields.io/badge/-sayohn-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgdRY4w_nDtM6Nqi6-H13BA)](https://www.youtube.com/channel/UCgdRY4w_nDtM6Nqi6-H13BA) 
+Carnatic Violinist 🎻 [![](https://img.shields.io/badge/-sayohn-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgdRY4w_nDtM6Nqi6-H13BA)](https://www.youtube.com/channel/UCgdRY4w_nDtM6Nqi6-H13BA) 
 
 📫  How to reach me?  
-[![](https://img.shields.io/badge/-sayohn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayohn)](https://www.linkedin.com/in/sayohn) 
+[![](https://img.shields.io/badge/-sayohn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayohn)](https://www.linkedin.com/in/sayohn) 
 [![](https://img.shields.io/github/followers/sayohnahilan?label=follow&style=social)](https://github.com/sayohnahilan) 
 ![](https://visitor-badge.glitch.me/badge?page_id=sayohnahilan.sayohnahilan)  
 
